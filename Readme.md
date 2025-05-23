@@ -24,13 +24,13 @@ Sigue estos pasos para configurar y ejecutar el proyecto en tu máquina local:
 
 1. Clona el repositorio:
 
-Bash```
+```Bash
 git clone https://github.com/Mai-de-jerez/proyecto_avanzado_django.git
 cd proyecto_avanzado_django/webplayground
 ```
 2. Crea y activa un entorno virtual (muy recomendable):
 
-Bash```
+```Bash
 python -m venv venv
 source venv/bin/activate # En Linux/macOS
 # venv\Scripts\activate # En Windows
@@ -38,14 +38,14 @@ source venv/bin/activate # En Linux/macOS
 
 3. Instala las dependencias del proyecto:
 
-Bash```
+```Bash
 pip install -r requirements.txt
 ```
 (**Nota**:Si no tienes un archivo requirements.txt, asegúrate de crearlo con pip freeze > requirements.txt o lista las dependencias principales que Django y tus apps necesitan).
 
 4. Aplica las migraciones de la base de datos:
 
-Bash```
+```Bash
 python manage.py migrate
 ```
 
@@ -58,14 +58,14 @@ Sigue las instrucciones en pantalla para definir las credenciales.
 
 6. Inicia el servidor de desarrollo:
 
-Bash```
+```Bash
 python manage.py runserver
 ```
 
 7. Abre tu navegador web y visita `http://127.0.0.1:8000/`.
 
 ## 🤝 Contribución
-¡Nos encantaría que contribuyeras a este proyecto! Si deseas ayudar a mejorarlo:
+¡Nos encantaría que contribuyeras a este proyecto! Si deseas ayudar a mejorarlo:  
 
 Haz un "fork" de este repositorio.
 Crea una nueva rama para tu característica o corrección: git checkout -b feature/nombre-de-tu-caracteristica
