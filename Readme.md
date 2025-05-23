@@ -1,24 +1,26 @@
-Web Playground
+## Web Playground
 ¡Bienvenido a Web Playground! Este es un sitio web dinámico y personalizable que permite a los usuarios crear y gestionar sus propias páginas, establecer y personalizar sus perfiles, y comunicarse con otros usuarios a través de un sistema de mensajería interno.
 
-🚀 Características Principales
-Gestión de Páginas Personalizadas (pages):  
+## 🚀 Características Principales
+* Gestión de Páginas Personalizadas (pages):  
 Cada usuario puede crear, editar y organizar sus propias páginas web dentro de la plataforma, personalizando su contenido.
-Autenticación y Registro (registration):  
-Registro de Usuarios: Proceso intuitivo para que nuevos usuarios se unan a la plataforma.
-Inicio y Cierre de Sesión: Gestión segura de sesiones de usuario.
-Recuperación de Contraseña: (Si aplica) Permite a los usuarios restablecer sus credenciales.
-Perfiles de Usuario Personalizables (profiles): Los usuarios pueden crear y gestionar sus propios perfiles, añadir información personal, fotos, y otros detalles relevantes.
-Sistema de Mensajería Interna (messenger): Chatea en tiempo real y envía mensajes privados a otros usuarios registrados en la plataforma.
-Funcionalidades Core (core): Módulo central que gestiona las funcionalidades esenciales y la lógica base del sitio.
-🛠️ Tecnologías Utilizadas
-Este proyecto está construido principalmente con:
+* Autenticación y Registro (registration):  
+- Registro de Usuarios: Proceso intuitivo para que nuevos usuarios se unan a la plataforma.
+- Inicio y Cierre de Sesión: Gestión segura de sesiones de usuario.
+- Recuperación de Contraseña: (Si aplica) Permite a los usuarios restablecer sus credenciales.
+- Perfiles de Usuario Personalizables (profiles): Los usuarios pueden crear y gestionar sus propios perfiles, añadir información personal, fotos, y otros detalles relevantes.
+- Sistema de Mensajería Interna (messenger): Chatea en tiempo real y envía mensajes privados a otros usuarios registrados en la plataforma.
+- Funcionalidades Core (core): Módulo central que gestiona las funcionalidades esenciales y la lógica base del sitio.
+  
+## 🛠️ Tecnologías Utilizadas
+* Este proyecto está construido principalmente con:
 
-Django: El framework web de Python que proporciona una base robusta y escalable.
-Python: El lenguaje de programación principal utilizado en el backend.
-HTML, CSS, JavaScript: Para la estructura, estilo e interactividad del frontend.
-Base de Datos: (Por favor, especifica aquí la base de datos que usas, por ejemplo: SQLite para desarrollo, PostgreSQL, MySQL, etc.)
-⚙️ Instalación y Ejecución Local
+- Django: El framework web de Python que proporciona una base robusta y escalable.
+- Python: El lenguaje de programación principal utilizado en el backend.
+- HTML, CSS, JavaScript: Para la estructura, estilo e interactividad del frontend.
+- Base de Datos: (Por favor, especifica aquí la base de datos que usas, por ejemplo: SQLite para desarrollo, PostgreSQL, MySQL, etc.)
+  
+## ⚙️ Instalación y Ejecución Local
 Sigue estos pasos para configurar y ejecutar el proyecto en tu máquina local:
 
 Clona el repositorio:
