@@ -67,15 +67,11 @@ python manage.py runserver
 ## 🤝 Contribución
 ¡Nos encantaría que contribuyeras a este proyecto! Si deseas ayudar a mejorarlo:  
 
-Haz un "fork" de este repositorio.
-Crea una nueva rama para tu característica o corrección: git checkout -b feature/nombre-de-tu-caracteristica
-Realiza tus cambios y haz "commit" de ellos: git commit -m 'feat: Describe tu nueva funcionalidad o corrección'
-Sube tus cambios a tu rama: git push origin feature/nombre-de-tu-caracteristica
-Abre un "Pull Request" hacia la rama main de este repositorio.
-Espero que esta versión te guste mucho más y sea realmente útil para tu proyecto. ¿Hay algo más que quieras añadir o modificar?
-
-
-Fuentes
+1. Haz un "fork" de este repositorio.
+2. Crea una nueva rama para tu característica o corrección: `git checkout -b feature/nombre-de-tu-caracteristica`.
+3. Realiza tus cambios y haz "commit" de ellos: `git commit -m 'feat: Describe tu nueva funcionalidad o corrección'`.
+4. Sube tus cambios a tu rama: `git push origin feature/nombre-de-tu-caracteristica`.
+5. Abre un "Pull Request" hacia la rama `main` de este repositorio.
 
 
 
