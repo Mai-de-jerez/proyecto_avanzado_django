@@ -73,6 +73,9 @@ python manage.py runserver
 4. Sube tus cambios a tu rama: `git push origin feature/nombre-de-tu-caracteristica`.
 5. Abre un "Pull Request" hacia la rama `main` de este repositorio.
 
+## Agradecimientos
+Este es un proyecto realizado de la mano de Hector Costa en el curso de IBM y Bejob Formacion avanzada en backend: Python ,Flask y Django. Excelente programador y mejor profesor.
+
 
 
 
