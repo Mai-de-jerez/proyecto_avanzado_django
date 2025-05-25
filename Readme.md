@@ -41,7 +41,6 @@ source venv/bin/activate # En Linux/macOS
 ```Bash
 pip install -r requirements.txt
 ```
-(**Nota**:Si no tienes un archivo requirements.txt, asegúrate de crearlo con pip freeze > requirements.txt o lista las dependencias principales que Django y tus apps necesitan).
 
 4. Aplica las migraciones de la base de datos:
 
