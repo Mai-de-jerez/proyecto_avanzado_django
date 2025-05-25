@@ -17,7 +17,7 @@ Este proyecto está construido principalmente con:
 * Django: El framework web de Python que proporciona una base robusta y escalable.
 * Python: El lenguaje de programación principal utilizado en el backend.
 * HTML, CSS, JavaScript: Para la estructura, estilo e interactividad del frontend.
-* Base de Datos: (Por favor, especifica aquí la base de datos que usas, por ejemplo: SQLite para desarrollo, PostgreSQL, MySQL, etc.)
+* Base de Datos: SQLite3
   
 ## ⚙️ Instalación y Ejecución Local  
 Sigue estos pasos para configurar y ejecutar el proyecto en tu máquina local:
